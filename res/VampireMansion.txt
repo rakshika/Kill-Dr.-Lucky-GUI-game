@@ -1,0 +1,53 @@
+33 22 Vampire Mansion
+10 Oswald
+Jacob 
+24
+5 9 16 13 Living Room
+27 3 32 9 Master Bedroom
+0 5 10 8 Meal Room
+11 14 11 22 Refreshment Room
+0 9 4 12 Blood Bank
+33 0 33 11 Wine Cellar
+5 14 10 17 War Room
+11 2 16 5 Dressing Room
+27 18 30 22 Indoor Pool
+12 15 16 21 Sports Club
+17 1 21 7 Party Hall
+22 0 22 8 Booze Room
+17 9 22 13 Library
+0 0 6 4 Kill Room
+33 12 33 22 Armory
+17 17 22 20 Changing room
+23 5 26 9 Drawing room
+27 0 32 2 Balcony
+0 13 4 17 Maids Room
+23 10 32 13 Parlor
+31 14 32 18 Store Room
+0 18 6 22 Dead Room
+31 19 32 22 Trophy Room
+23 14 30 17 Game Room
+24
+0 5 Wolf Sword
+1 2 Sharp Knife
+2 2 Poisonous Insect
+3 5 Wolf Poison
+2 2 Meat Knife
+4 3 Vampire Blood
+5 5 Wolf Bane
+6 3 Dagger
+7 3 Syringe
+8 2 Poisoned Pool
+9 2 Electric Racket
+10 4 Bane Rain
+11 2 Warewolf Traps
+13 4 Specific Weapon
+14 4 Bomb
+14 2 Revolver
+15 3 Invisible Robe
+16 2 Sharp Pencil
+17 4 Secret Weapon
+18 5 Hybrid
+19 2 Chemical
+20 3 Pesticide
+23 4 Sharp Sword
+13 2 Wolf Siren
