@@ -1,15 +1,3 @@
-# CS 5010 Semester Project
-
-This repo represents the coursework for CS 5010, the Spring 2022 Edition!
-
-**Name:** Soundarya Srikanta, Rakshika Raju
-
-**Email:** srikanta.s@northeastern.edu, raju.r@northeastern.edu
-
-**Preferred Name:** Soundarya, Rakshika
-
-
-
 ### About/Overview
 
 We are implementing a game, similar to Kill Dr. Lucky. The game has a world of its own, which contains spaces (rooms), weapons (items) in each room, (human-controlled and/or computer-controlled) players that play the game and a target character. The final outcome of the game is to kill the target character. This program creates the world, all the spaces in the world and weapons in each space by taking inputs from a text file in a specified format. The players will be created by the user in the beginning of the game. The players try to kill the target character and the player who hits the killing shot wins. There is a target character's pet that affects the visibility of the space it is in. The target character and the pet move around the world after every turn of the player.
